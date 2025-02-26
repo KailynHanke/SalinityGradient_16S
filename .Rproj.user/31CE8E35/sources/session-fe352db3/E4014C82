@@ -1,0 +1,24 @@
+{
+    "id": "E4014C82",
+    "path": "/local/workdir/kah357/Amplicon_Project/data/ena-file-download-read_run-PRJEB31110-fastq_ftp-20250220-0626.sh",
+    "project_path": null,
+    "type": "sh",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1740034829138.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1740033825,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1740033825,
+    "read_only": false,
+    "read_only_alternatives": []
+}

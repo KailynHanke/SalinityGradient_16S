@@ -1,0 +1,27 @@
+{
+    "id": "DA4B20D3",
+    "path": "/local/workdir/kah357/SalinityGradient_16S/analysis/01_DADA2.Rmd",
+    "project_path": "analysis/01_DADA2.Rmd",
+    "type": "r_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1740000183214.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "33,20",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1740000736,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1740000736696,
+    "read_only": false,
+    "read_only_alternatives": []
+}
